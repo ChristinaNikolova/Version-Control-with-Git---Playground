@@ -3,7 +3,7 @@
   margin: 0 auto;
 }
 
-h1 {
+.wrapper-title {
   background-color: lightblue;
   text-align: center;
   padding: 20px;
